@@ -1,0 +1,60 @@
+body
+{
+    min-width: 90vw;
+    min-height: 100vh;
+    background-color: hsl(0,0%,8%);
+    font-family: Inter,monospace;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    
+}
+
+#box
+{
+    width: 370px;
+    border-radius: 9px;
+    background-color: hsl(0, 0%, 12%);
+    height: fit-content;
+    position: relative;
+    padding-bottom: 15px;
+}
+
+#img
+{
+    margin-top: 20px;
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+}
+
+p
+{
+    font-size: 14px;
+    color: hsl(75, 94%, 57%);
+}
+
+button
+{
+
+    border-radius: 7px;
+    background-color: rgb(102, 101, 101);
+    text-align: center;
+    color: white;
+    padding: 12px;
+    text-align: center;
+    margin-top: 9px;
+    font-weight: 400;
+    border: none;
+    outline: none;
+    width: 70%;
+}
+h2
+{
+    color: white;
+}
+span
+{
+    color: rgb(147, 145, 145);
+}
