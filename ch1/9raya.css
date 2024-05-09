@@ -12,7 +12,7 @@ body
 
 #container
 {
-    box-shadow: 10px 2px black;
+    box-shadow: 3px 3px black;
     border: 2px solid;
     height: fit-content;
     width: 370px;
